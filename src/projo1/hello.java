@@ -18,4 +18,8 @@ public class hello {
 		}
 	}
 	
+	void saykurwa(){
+		System.out.println("kurwa");
+	}
+	
 }

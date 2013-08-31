@@ -9,7 +9,7 @@ public class main {
 		
 		czesc1.sayhello();
 		czesc3.sayhello();
-		
+		czesc1.saykurwa();
 		
 		
 	}
